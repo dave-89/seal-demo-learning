@@ -1,4 +1,5 @@
 #include <iostream>
+#include <seal/seal.h>
 
 int main(int, char**) {
     std::cout << "Hello, world!\n";
